@@ -1,0 +1,16 @@
+var books=[
+    {name:'one',gener:'1g',id:'1',authid:'1'},
+    {name:'two',gener:'2g',id:'2',authid:'2'},
+    {name:'three',gener:'3g',id:'3',authid:'3'},
+    {name:'four',gener:'4g',id:'4',authid:'3'},
+    {name:'five',gener:'5g',id:'5',authid:'2'},
+    {name:'six',gener:'6g',id:'6',authid:'2'},
+
+]
+
+var authours=[
+    {name:'authone',age:1,id:'1'},
+    {name:'authtwo',age:2,id:'2'},
+    {name:'auththree',age:3,id:'3'},
+
+]
